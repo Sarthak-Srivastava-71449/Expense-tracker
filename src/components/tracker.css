@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    margin-top: 2em;
+    text-align: left;
+    margin-left: 2em;
+}
+
+.task_fields{
+    border-color: black;
+    border-style: solid;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-evenly;
+    width: 40%;
+    padding: 1em;
+    margin-left: 2em;
+}
+
+
+
+.table_div{
+    border: 1px solid black;
+    margin-top: 0;
+    margin-left: 1em;
+    width: 90%;
+}
